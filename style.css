@@ -154,6 +154,10 @@ section::before{
     z-index: 1;
 }
 
+#logo-and-name button a{
+    text-decoration: none;
+}
+
 #logo-and-name button:hover{
     transform: translateY(-5px) scale(1.05);
     box-shadow: 0 12px 35px rgba(0, 0, 0, 0.3);
